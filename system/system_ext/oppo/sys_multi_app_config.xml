@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configVersion name="2020.05.9" number="20200509">
+    <maxNum name="200" />
+    <related>
+        <item name="android" />
+        <item name="com.google.android.gms" />
+        <item name="com.google.android.gsf" />
+        <item name="com.google.android.ext.services" />
+        <item name="com.google.android.webview" />
+        <item name="com.google.android.permissioncontroller" />
+        <item name="com.android.permissioncontroller" />
+        <item name="com.android.webview" />
+        <item name="com.coloros.securitypermission" />
+        <item name="com.facebook.services" />
+        <item name="com.facebook.system" />
+        <item name="com.facebook.appmanager" />
+        <item name="com.android.providers.media" />
+        <item name="com.android.providers.media.module" />
+        <item name="com.google.android.providers.media.module" />
+    </related>
+
+    <allowed>
+        <item name="com.tencent.mm" />
+        <item name="com.tencent.wework" />
+        <item name="com.tencent.weworklocal" />
+        <item name="com.tencent.mobileqq" />
+        <item name="com.tencent.qqlite" />
+        <item name="com.tencent.mobileqqi" />
+        <item name="com.tencent.minihd.qq" />
+        <item name="com.tencent.eim" />
+        <item name="com.tencent.tim" />
+        <item name="com.tencent.tmgp.sgame" />
+        <item name="com.tencent.tmgp.speedmobile" />
+        <item name="com.tencent.tmgp.pubgmhd" />
+        <item name="com.tencent.qqlive" />
+        <item name="com.tencent.qqmusic" />
+        <item name="com.qq.qcloud" />
+        <item name="com.qzone" />
+        <item name="com.jingdong.app.mall" />
+        <item name="com.jd.jdlite" />
+        <item name="com.jd.pingou" />
+        <item name="com.sina.weibo" />
+        <item name="com.weico.international" />
+        <item name="com.sina.weibolite" />
+        <item name="com.taobao.taobao" />
+        <item name="com.taobao.htao.android" />
+        <item name="com.taobao.homeai" />
+        <item name="com.taobao.trip" />
+        <item name="com.taobao.idlefish" />
+        <item name="com.taobao.qianniu" />
+        <item name="com.tmall.wireless" />
+        <item name="com.alibaba.android.rimet" />
+        <item name="com.alibaba.wireless" />
+        <item name="com.alicloud.databox" />
+        <item name="com.suning.mobile.ebuy" />
+        <item name="com.vkontakte.android" />
+        <item name="jp.naver.line.android" />
+        <item name="com.facebook.orca" />
+        <item name="com.whatsapp" />
+        <item name="com.bbm" />
+        <item name="com.viber.voip" />
+        <item name="com.imo.android.imoim" />
+        <item name="com.instagram.android" />
+        <item name="com.instagram.layout" />
+        <item name="org.telegram.messenger" />
+        <item name="com.skype.raider" />
+        <item name="com.zing.zalo" />
+        <item name="com.facebook.katana" />
+        <item name="com.bsb.hike" />
+        <item name="com.eg.android.AlipayGphone" />
+        <item name="com.baidu.searchbox" />
+        <item name="com.baidu.tieba" />
+        <item name="com.baidu.tieba_mini" />
+        <item name="com.baidu.netdisk" />
+        <item name="com.zhiliaoapp.musically" />
+        <item name="om.ss.android.ugc.aweme" />
+        <item name="com.xunmeng.pinduoduo" />
+        <item name="com.zhihu.android" />
+        <item name="com.ylmf.androidclient" />
+        <item name="com.immomo.momo" />
+        <item name="mark.via" />
+        <item name="com.xiaomi.youpin" />
+        <item name="com.lenovo.club.app" />
+        <item name="tv.danmaku.bili" />
+        <item name="com.youku.phone" />
+        <item name="com.coolapk.market" />
+        <item name="com.juphoon.justalk" />
+        <item name="cn.xiaochuankeji.tieba" />
+        <item name="com.soft.blued" />
+        <item name="com.p1.mobile.putong" />
+        <item name="com.xingjiabi.shengsheng" />
+        <item name="com.ss.android.ugc.live" />
+        <item name="com.smile.gifmaker" />
+        <item name="com.kuaishou.nebula" />
+        <item name="tv.acfundanmaku.video" />
+        <item name="com.qiyi.video" />
+        <item name="cn.cntv" />
+        <item name="com.cctv.yangshipin.app.androidp" />
+        <item name="com.telecom.video" />
+        <item name="com.hunantv.imgo.activity" />
+        <item name="com.letv.android.client" />
+        <item name="com.lesports.albatross" />
+        <item name="com.kugou.android" />
+        <item name="com.kugou.android.lite" />
+        <item name="com.ximalaya.ting.android" />
+        <item name="cn.emagsoftware.gamehall" />
+        <item name="com.sonyericsson.music" />
+        <item name="com.ting.mp3.android" />
+        <item name="com.douban.frodo" />
+        <item name="com.douban.radio" />
+        <item name="com.douban.book.reader" />
+        <item name="fm.qingting.qtradio" />
+        <item name="com.yibasan.lizhifm" />
+        <item name="com.lizhi.podcast" />
+        <item name="air.tv.douyu.android" />
+        <item name="com.douyu.rush" />
+        <item name="com.duowan.kiwi" />
+        <item name="com.dianping.v1" />
+        <item name="com.sankuai.meituan.takeoutnew" />
+        <item name="com.sankuai.meituan" />
+        <item name="com.meituan.retail.v.android" />
+        <item name="com.yunda.app" />
+        <item name="com.sf.activity" />
+        <item name="com.deppon.dpapp" />
+        <item name="cn.beekee.zhongtong" />
+        <item name="com.yto.client.activity" />
+        <item name="com.achievo.vipshop" />
+        <item name="om.xingin.xhs" />
+        <item name="cn.amazon.mShop.android" />
+        <item name="com.cubic.autohome" />
+        <item name="com.hupu.games" />
+    </allowed>
+
+    <chooseRecentTask>
+        <item name = "com.sina.weibo/.wxapi.WXEntryActivity" />
+        <item name = "com.tencent.mobileqq/.wxapi.WXEntryActivity" />
+        <item name = "com.tencent.mm/.plugin.webview.ui.tools.QQCallbackUI" />
+        <item name = "com.taobao.taobao/com.taobao.login4android.activity.AlipaySSOResultActivity" />
+        <item name = "com.taobao.taobao/.apshare.ShareEntryActivity" />
+        <item name = "com.taobao.taobao/.weibo.WeiboShareActivity" />
+    </chooseRecentTask>
+
+    <chooseSkipChoose>
+        <pkg name="*" >
+            <item name = "com.sina.weibo/com.taobao.share.view.WeiboShareActivity" />
+        </pkg>
+        <pkg name="*" >
+            <item name = "com.sina.weibo/.composerinde.ComposerDispatchActivity" />
+        </pkg>
+    </chooseSkipChoose>
+
+    <crossAuthority>
+        <item name="media" />
+        <item name="mms" />
+        <item name="downloads" />
+        <item name="settings" />
+        <item name="com.android.calendar" />
+        <item name="com.android.contacts" />
+        <item name="com.android.badge" />
+        <item name="contacts;com.android.contacts" />
+        <item name="com.android.contacts.files" />
+        <item name="com.android.externalstorage.documents" />
+        <item name="com.android.providers.media.documents" />
+        <item name="com.google.android.apps.photos.contentprovider" />
+        <item name="com.google.android.apps.docs.storage" />
+        <item name="com.sina.weibo.sdkProvider" />
+    </crossAuthority>
+
+</configVersion>
